@@ -1,0 +1,108 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "abstract": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "web_url": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "snippet": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "lead_paragraph": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "print_section": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "print_page": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "source": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "multimedia": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "headline": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "keywords": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "pub_date": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "document_type": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "news_desk": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "section_name": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "byline": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "type_of_material": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "_id": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "word_count": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "uri": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "subsection_name": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "Open": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "High": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "Low": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "Close": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "Date": {
+      "dtype": "timestamp[ns]",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}

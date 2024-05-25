@@ -1,0 +1,23 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "Date": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "Close": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "hidden_state": {
+      "feature": {
+        "dtype": "float32",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}

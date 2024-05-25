@@ -1,8 +1,8 @@
 credentials_mahdi.json
 credentials-2.json
 .DS_Store
-data
+data/.minio.sys/buckets
 my_api_info.py
 credentials.json
-data
+
 

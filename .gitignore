@@ -4,5 +4,7 @@ credentials-2.json
 data/.minio.sys/buckets
 my_api_info.py
 credentials.json
+data/.minio.sys
+data
 
 

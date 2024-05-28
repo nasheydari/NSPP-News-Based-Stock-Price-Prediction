@@ -1,0 +1,282 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "Date": {
+      "dtype": "timestamp[ns]",
+      "_type": "Value"
+    },
+    "abstract": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "web_url": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "snippet": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "lead_paragraph": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "print_section": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "print_page": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "source": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "multimedia": [
+      {
+        "caption": {
+          "dtype": "null",
+          "_type": "Value"
+        },
+        "credit": {
+          "dtype": "null",
+          "_type": "Value"
+        },
+        "crop_name": {
+          "dtype": "string",
+          "_type": "Value"
+        },
+        "height": {
+          "dtype": "int64",
+          "_type": "Value"
+        },
+        "legacy": {
+          "thumbnail": {
+            "dtype": "string",
+            "_type": "Value"
+          },
+          "thumbnailheight": {
+            "dtype": "int64",
+            "_type": "Value"
+          },
+          "thumbnailwidth": {
+            "dtype": "int64",
+            "_type": "Value"
+          },
+          "wide": {
+            "dtype": "string",
+            "_type": "Value"
+          },
+          "wideheight": {
+            "dtype": "int64",
+            "_type": "Value"
+          },
+          "widewidth": {
+            "dtype": "int64",
+            "_type": "Value"
+          },
+          "xlarge": {
+            "dtype": "string",
+            "_type": "Value"
+          },
+          "xlargeheight": {
+            "dtype": "int64",
+            "_type": "Value"
+          },
+          "xlargewidth": {
+            "dtype": "int64",
+            "_type": "Value"
+          }
+        },
+        "rank": {
+          "dtype": "int64",
+          "_type": "Value"
+        },
+        "subType": {
+          "dtype": "string",
+          "_type": "Value"
+        },
+        "subtype": {
+          "dtype": "string",
+          "_type": "Value"
+        },
+        "type": {
+          "dtype": "string",
+          "_type": "Value"
+        },
+        "url": {
+          "dtype": "string",
+          "_type": "Value"
+        },
+        "width": {
+          "dtype": "int64",
+          "_type": "Value"
+        }
+      }
+    ],
+    "headline": {
+      "content_kicker": {
+        "dtype": "null",
+        "_type": "Value"
+      },
+      "kicker": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "main": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "name": {
+        "dtype": "null",
+        "_type": "Value"
+      },
+      "print_headline": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "seo": {
+        "dtype": "null",
+        "_type": "Value"
+      },
+      "sub": {
+        "dtype": "null",
+        "_type": "Value"
+      }
+    },
+    "keywords": [
+      {
+        "major": {
+          "dtype": "string",
+          "_type": "Value"
+        },
+        "name": {
+          "dtype": "string",
+          "_type": "Value"
+        },
+        "rank": {
+          "dtype": "int64",
+          "_type": "Value"
+        },
+        "value": {
+          "dtype": "string",
+          "_type": "Value"
+        }
+      }
+    ],
+    "pub_date": {
+      "dtype": "timestamp[ns, tz=UTC]",
+      "_type": "Value"
+    },
+    "document_type": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "news_desk": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "section_name": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "byline": {
+      "organization": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "original": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "person": [
+        {
+          "firstname": {
+            "dtype": "string",
+            "_type": "Value"
+          },
+          "lastname": {
+            "dtype": "string",
+            "_type": "Value"
+          },
+          "middlename": {
+            "dtype": "string",
+            "_type": "Value"
+          },
+          "organization": {
+            "dtype": "string",
+            "_type": "Value"
+          },
+          "qualifier": {
+            "dtype": "null",
+            "_type": "Value"
+          },
+          "rank": {
+            "dtype": "int64",
+            "_type": "Value"
+          },
+          "role": {
+            "dtype": "string",
+            "_type": "Value"
+          },
+          "title": {
+            "dtype": "null",
+            "_type": "Value"
+          }
+        }
+      ]
+    },
+    "type_of_material": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "_id": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "word_count": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "uri": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "subsection_name": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "slideshow_credits": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "Open": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "High": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "Low": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "Close": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "Adj Close": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "Volume": {
+      "dtype": "float64",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
